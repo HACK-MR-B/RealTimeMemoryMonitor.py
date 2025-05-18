@@ -1,4 +1,4 @@
-# RealTimeMemoryMonitor.py
+# RealTimeMemoryMonitor
 
 
 # 🧠 RealTimeMemoryMonitor.py

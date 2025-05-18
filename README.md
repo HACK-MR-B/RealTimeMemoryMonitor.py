@@ -33,3 +33,5 @@ Install the required Python package using:
 
 ```bash
 pip install psutil
+
+python3 RealTimeMemoryMonitor.py
